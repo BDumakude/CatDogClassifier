@@ -6,4 +6,4 @@
 - Test set size: 2500 Cats 2500 Dogs
 
 ### Created for Streamlit App
-- [You can reach teh application here]{https://catordog.streamlit.app/}
+- [You can reach the application here](https://catordog.streamlit.app/)
